@@ -282,7 +282,7 @@ The Connection class represents a connection between two nodes in a graph. Each 
 
 - getAName(): String: Returns the name of the first node.
 
-### Final Node Class
+### Final Connection Class
 
 ```java
 package searchgraf;
@@ -428,7 +428,7 @@ The Graf class represents a graph that consists of nodes and connections between
 
 - getNodePositionInTable(List\<String\> table, Node currNode): int: Retrieves the position of the specified node in the given table.
 
-### Final Node Class
+### Final Graf Class
 
 ```java
 package searchgraf;
