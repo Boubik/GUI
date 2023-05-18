@@ -25,10 +25,10 @@ This program combines Dijkstra's algorithm for finding the shortest path in a gr
 
 # CSV
 
-The Node-Path structure is a representation of a graph-like data structure consisting of nodes and paths. Each node contains three attributes: X, Y, and Name, while each path contains two attributes: Name and Rank. The structure follows the format:
+The Node-Path structure is a representation of a graph-like data structure consisting of nodes and paths. Each line consists of one node and an arbitrary number of paths. Each node contains three attributes: X, Y, and Name, while each path contains two attributes: Name and Rank. The structure follows the format:
 
 ```
-Node[X,Y,Name];Path[Name,Rank];Path[Name,Rank];Path[Name,Rank]
+Node[X,Y,Name];Path[Name,Rank];Path[Name,Rank];Path[Name,Rank]...
 ```
 
 Here's an example of the structure with explanations:
