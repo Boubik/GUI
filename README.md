@@ -18,6 +18,7 @@ This program combines Dijkstra's algorithm for finding the shortest path in a gr
     1. [Connection Class](#connection-class)
     1. [Graf Class](#graf-class)
     1. [SearchGraf Class](#searchgraf-class)
+1. [Usage of application](#usage-of-application)
 
 # Requirements
 
