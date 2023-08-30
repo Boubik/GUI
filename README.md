@@ -1160,15 +1160,15 @@ public class SearchGraf extends Application {
 }
 ```
 
-### Usage of application
+# Usage of application
 
-#### Screenshot of running application
+### Screenshot of the running application
 
 ![example of running app](pictures/app.png "screenshot")
 
 Observe the application's interface, which illustrates a graph traversal from the starting node D to the destination node C. This journey incurs a total cost of 7 units, and the path taken is visually indicated by a distinctive red highlight. The traversal sequence follows the route D -> A -> B -> C, demonstrating the optimal pathfinding capability of the system
 
-#### log from console
+### log from console
 
  ``` log
 Contents of File: 
@@ -1204,13 +1204,13 @@ Délka: 7
 Cesta: D[126,71] -> A[126,232] -> B[321,232] -> C[516,161]
  ```
 
-### another example
+## Another example
 
-#### Screenshot of running application
+### Screenshot of the running application
 
 ![example of running app](pictures/app2.png "screenshot2")
 
-#### log from console
+### log from console
 
  ``` log
 Contents of File: 
